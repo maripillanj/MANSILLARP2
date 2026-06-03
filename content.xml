@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260603120609BP35OC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260603120609AUT5WZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>MANSILLARP2°SJO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780499157646</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>fb64c941-616d-4b00-ad38-347bdd3b68f1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ESCALAS</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ESCALAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>ESCALAS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>fb64c941-616d-4b00-ad38-347bdd3b68f1</odePageId>
+      <odeBlockId>block-1780498520995-aufsy2b8b</odeBlockId>
+      <blockName>TEORÍA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>fb64c941-616d-4b00-ad38-347bdd3b68f1</odePageId>
+          <odeBlockId>block-1780498520995-aufsy2b8b</odeBlockId>
+          <odeIdeviceId>idevice-1780498520992-eyq19fqam</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="background-color: #f9f9f9; border-left: 5px solid #007bff; padding: 15px; border-radius: 4px; margin-bottom: 20px;">
+<h3 style="color: #007bff; margin-top: 0;">💡 APRENDAMOS SOBRE ESCALAS</h3>
+<p>LAS ESCALAS NOS SIRVEN PARA DIBUJAR COSAS DE LA REALIDAD EN UNA HOJA DE PAPEL. ¡A VECES LOS OBJETOS SON MUY GRANDES O MUY CHICOS Y TENEMOS QUE ADAPTARLOS!</p>
+<ul style="list-style-type: none; padding-left: 0;">
+<li style="margin-bottom: 10px;">🟢 <strong>ESCALA NATURAL (1:1):</strong> EL DIBUJO MIDE <strong>EXACTAMENTE LO MISMO</strong> QUE EL OBJETO REAL.</li>
+<li style="margin-bottom: 10px;">🔵 <strong>ESCALA DE AMPLIACIÓN (2:1):</strong> EL DIBUJO ES EL <strong>DOBLE DE GRANDE</strong> QUE EL OBJETO REAL (SE USA PARA COSAS MUY CHIQUITAS, COMO EL ENGRANAJE DE UN RELOJ).</li>
+<li style="margin-bottom: 10px;">🔴 <strong>ESCALA DE REDUCCIÓN (1:2):</strong> EL DIBUJO ES LA <strong>MITAD DE GRANDE</strong> QUE EL OBJETO REAL (SE USA PARA COSAS MUY GRANDES, COMO UN AUTO O UNA CASA).</li>
+</ul>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/mDFWh6g83k8?si=lxxL0lcwKh0Jl7Ct" allowfullscreen="allowfullscreen"></iframe></p>
+</div>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780498520992-eyq19fqam","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"background-color: #f9f9f9; border-left: 5px solid #007bff; padding: 15px; border-radius: 4px; margin-bottom: 20px;\">\n<h3 style=\"color: #007bff; margin-top: 0;\">💡 APRENDAMOS SOBRE ESCALAS</h3>\n<p>LAS ESCALAS NOS SIRVEN PARA DIBUJAR COSAS DE LA REALIDAD EN UNA HOJA DE PAPEL. ¡A VECES LOS OBJETOS SON MUY GRANDES O MUY CHICOS Y TENEMOS QUE ADAPTARLOS!</p>\n<ul style=\"list-style-type: none; padding-left: 0;\">\n<li style=\"margin-bottom: 10px;\">🟢 <strong>ESCALA NATURAL (1:1):</strong> EL DIBUJO MIDE <strong>EXACTAMENTE LO MISMO</strong> QUE EL OBJETO REAL.</li>\n<li style=\"margin-bottom: 10px;\">🔵 <strong>ESCALA DE AMPLIACIÓN (2:1):</strong> EL DIBUJO ES EL <strong>DOBLE DE GRANDE</strong> QUE EL OBJETO REAL (SE USA PARA COSAS MUY CHIQUITAS, COMO EL ENGRANAJE DE UN RELOJ).</li>\n<li style=\"margin-bottom: 10px;\">🔴 <strong>ESCALA DE REDUCCIÓN (1:2):</strong> EL DIBUJO ES LA <strong>MITAD DE GRANDE</strong> QUE EL OBJETO REAL (SE USA PARA COSAS MUY GRANDES, COMO UN AUTO O UNA CASA).</li>\n</ul>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/mDFWh6g83k8?si=lxxL0lcwKh0Jl7Ct\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n</div>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>fb64c941-616d-4b00-ad38-347bdd3b68f1</odePageId>
+      <odeBlockId>block-1780498707367-y0tzl03fe</odeBlockId>
+      <blockName>PRÁCTICA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>fb64c941-616d-4b00-ad38-347bdd3b68f1</odePageId>
+          <odeBlockId>block-1780498707367-y0tzl03fe</odeBlockId>
+          <odeIdeviceId>idevice-1780498707360-pt1sprg5c</odeIdeviceId>
+          <odeIdeviceTypeName>casestudy</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-casestudy-container">
+  
+        <div class="caseStudyContent">            
+            <div class="CSP-Info mb-3">
+                
+            <dl>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+                <div class="inline"><dt><span title=""></span></dt><dd></dd></div>
+            </dl>
+            </div>
+            <div class="CSP-History mb-3" >
+                <p>¡A TRABAJAR!</p>
+            </div>
+            <div class="CSP-Activities mb-3">
+                
+                <div class="CSP-ActivityDiv ">
+                    <div class="CSP-Activity mb-3">
+                        <div style="background-color: #ffffff; border: 1px solid #dee2e6; padding: 20px; border-radius: 4px; margin-bottom: 20px;">
+<h3 style="color: #28a745; margin-top: 0;">📋 TU HOJA DE RUTA PASO A PASO</h3>
+<p>CARLOS, VAS A TRABAJAR CON <strong>UNA SOLA FIGURA : UN CUADRADO</strong>. LO VAS A DIBUJAR EN TRES TAMAÑOS DIFERENTES EN <strong>TU CARPETA.</strong></p>
+<p><em>TÓMATE TU TIEMPO Y VE COMPLETANDO LOS PASOS EN ORDEN:</em></p>
+<div style="margin-top: 20px;">
+<h4 style="color: #495057; font-weight: bold;">🔹 PASO 1: DIBUJO EN ESCALA NATURAL (1:1)</h4>
+<p style="padding-left: 15px;">COPIA LA FIGURA EN TU HOJA USANDO TUS REGLAS. HAZLA CON ESTAS MEDIDAS EXACTAS:</p>
+<ul style="padding-left: 35px;">
+<li>ANCHO TOTAL: <strong>60 MM</strong> (6 CM)</li>
+<li>ALTO TOTAL: <strong>40 MM</strong> (4 CM)</li>
+</ul>
+</div>
+<div style="margin-top: 20px;">
+<h4 style="color: #495057; font-weight: bold;">🔹 PASO 2: DIBUJO EN ESCALA DE AMPLIACIÓN (2:1)</h4>
+<p style="padding-left: 15px;">DIBUJA LA MISMA FIGURA, PERO MULTIPLICANDO TODAS SUS MEDIDAS <strong>POR 2</strong> (¡VA A QUEDAR EL DOBLE DE GRANDE!).</p>
+<ul style="padding-left: 35px;">
+<li>NUEVO ANCHO: 60 MM × 2 = <strong>120 MM</strong> (12 CM)</li>
+<li>NUEVO ALTO: 40 MM × 2 = <strong>80 MM</strong> (8 CM)</li>
+</ul>
+</div>
+<div style="margin-top: 20px;">
+<h4 style="color: #495057; font-weight: bold;">🔹 PASO 3: DIBUJO EN ESCALA DE REDUCCIÓN (1:2)</h4>
+<p style="padding-left: 15px;">PARA TERMINAR, DIBUJA LA FIGURA DIVIDIENDO SUS MEDIDAS <strong>POR 2</strong> (VA A QUEDAR A LA MITAD DE TAMAÑO).</p>
+<ul style="padding-left: 35px;">
+<li>NUEVO ANCHO: 60 MM ÷ 2 = <strong>30 MM</strong> (3 CM)</li>
+<li>NUEVO ALTO: 40 MM ÷ 2 = <strong>20 MM</strong> (2 CM)</li>
+</ul>
+</div>
+</div>
+                    </div>
+                    
+                    <div class="CSP-FeedbackText feedback js-feedback js-hidden" style="display: none;">
+                        
+                    </div>
+                </div>
+            
+            </div>
+        </div>
+    
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1780498707360-pt1sprg5c","typeGame":"Case study","history":"<p>¡A TRABAJAR!</p>","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","activities":[{"activity":"<div style=\"background-color: #ffffff; border: 1px solid #dee2e6; padding: 20px; border-radius: 4px; margin-bottom: 20px;\">\n<h3 style=\"color: #28a745; margin-top: 0;\">📋 TU HOJA DE RUTA PASO A PASO</h3>\n<p>CARLOS, VAS A TRABAJAR CON <strong>UNA SOLA FIGURA : UN CUADRADO</strong>. LO VAS A DIBUJAR EN TRES TAMAÑOS DIFERENTES EN <strong>TU CARPETA.</strong></p>\n<p><em>TÓMATE TU TIEMPO Y VE COMPLETANDO LOS PASOS EN ORDEN:</em></p>\n<div style=\"margin-top: 20px;\">\n<h4 style=\"color: #495057; font-weight: bold;\">🔹 PASO 1: DIBUJO EN ESCALA NATURAL (1:1)</h4>\n<p style=\"padding-left: 15px;\">COPIA LA FIGURA EN TU HOJA USANDO TUS REGLAS. HAZLA CON ESTAS MEDIDAS EXACTAS:</p>\n<ul style=\"padding-left: 35px;\">\n<li>ANCHO TOTAL: <strong>60 MM</strong> (6 CM)</li>\n<li>ALTO TOTAL: <strong>40 MM</strong> (4 CM)</li>\n</ul>\n</div>\n<div style=\"margin-top: 20px;\">\n<h4 style=\"color: #495057; font-weight: bold;\">🔹 PASO 2: DIBUJO EN ESCALA DE AMPLIACIÓN (2:1)</h4>\n<p style=\"padding-left: 15px;\">DIBUJA LA MISMA FIGURA, PERO MULTIPLICANDO TODAS SUS MEDIDAS <strong>POR 2</strong> (¡VA A QUEDAR EL DOBLE DE GRANDE!).</p>\n<ul style=\"padding-left: 35px;\">\n<li>NUEVO ANCHO: 60 MM × 2 = <strong>120 MM</strong> (12 CM)</li>\n<li>NUEVO ALTO: 40 MM × 2 = <strong>80 MM</strong> (8 CM)</li>\n</ul>\n</div>\n<div style=\"margin-top: 20px;\">\n<h4 style=\"color: #495057; font-weight: bold;\">🔹 PASO 3: DIBUJO EN ESCALA DE REDUCCIÓN (1:2)</h4>\n<p style=\"padding-left: 15px;\">PARA TERMINAR, DIBUJA LA FIGURA DIVIDIENDO SUS MEDIDAS <strong>POR 2</strong> (VA A QUEDAR A LA MITAD DE TAMAÑO).</p>\n<ul style=\"padding-left: 35px;\">\n<li>NUEVO ANCHO: 60 MM ÷ 2 = <strong>30 MM</strong> (3 CM)</li>\n<li>NUEVO ALTO: 40 MM ÷ 2 = <strong>20 MM</strong> (2 CM)</li>\n</ul>\n</div>\n</div>","feedback":"","buttonCaption":"Mostrar retroalimentación"}]}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
